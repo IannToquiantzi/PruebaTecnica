@@ -24,13 +24,13 @@ git clone https://github.com/IannToquiantzi/PruebaTecnica.git
 npm install
 ```
 
-3. Inicia el servidor de desarrollo:
+3. Inicia el servidor de desarrollo, dentro del IDE que se encuentren:
 
 ```bash
 ng serve
 ```
 
-4. Abre el navegador en:
+4. Abre el navegador en esta liga, esa liga aparece automáticamente cuando se hace el paso 3:
 
 ```bash
 http://localhost:4200
