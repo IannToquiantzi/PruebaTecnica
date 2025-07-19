@@ -1,1 +1,7 @@
-<p>booking-list works!</p>
+<div class="booking-list">
+    <h2>Reservas Disponibles</h2>
+    <div class ="card" *ngFor="let booking of bookings" (click)="onSelect(booking)">
+        <p>{{ booking.name }}</p>
+        <button>Ver más</button>
+         </div>
+</div>

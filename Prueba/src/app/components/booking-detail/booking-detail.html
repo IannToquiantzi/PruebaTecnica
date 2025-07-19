@@ -1,1 +1,6 @@
-<p>booking-detail works!</p>
+<div class="booking-detail" *ngIf="booking">
+    <p><strong>Clase:</strong> {{ booking!.name }}</p>
+    <p><strong>Profesor:</strong> {{ booking!.teacher }}</p>
+    <p><strong>Cupos:</strong> {{ booking!.slots }}</p>
+    <button>Reservar</button>
+</div>
