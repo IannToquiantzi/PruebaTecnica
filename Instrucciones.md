@@ -9,6 +9,8 @@ Esta aplicación simula un sistema de reservas de clases para un gimnasio. Fue d
 - HTML + SCSS (sin Angular Material / Bootstrap)
 
 ---
+# Consideraciones previas
+Existen 2 ramas, la rama main y la rama Prueba, el trabajo que se realizó está en la rama Prueba.
 
 ## Instalación y ejecución
 
