@@ -16,7 +16,6 @@ Esta aplicación simula un sistema de reservas de clases para un gimnasio. Fue d
 
 ```bash
 git clone https://github.com/IannToquiantzi/PruebaTecnica.git
-cd PruebaTecnica
 ```
 
 2. Instala las dependencias (Hay que tener instalado Node.js):
